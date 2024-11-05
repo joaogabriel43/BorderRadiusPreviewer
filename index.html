@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Modificar Border Radius</title>
+    <link rel="stylesheet" href="reset.css" />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+
+  </head>
+  <body>
+    <main>
+      <header>
+        <h1 class="title">Modifique o raio da Borda!</h1>
+      </header>
+      <div id="box" class="box"></div>
+      <div class="controls">
+        <button id="toggle-mode">Mudar em tempo real</button>
+        <label for="top-left-horizontal">Top Left Horizontal:</label>
+        <input type="number" id="top-left-horizontal" class="input" value="0">
+        <label for="top-left-vertical">Top Left Vertical:</label>
+        <input type="number" id="top-left-vertical" class="input" value="0">
+        <label for="top-right-horizontal">Top Right Horizontal:</label>
+        <input type="number" id="top-right-horizontal" class="input" value="0">
+        <label for="top-right-vertical">Top Right Vertical:</label>
+        <input type="number" id="top-right-vertical" class="input" value="0">
+        <label for="bottom-right-horizontal">Bottom Right Horizontal:</label>
+        <input type="number" id="bottom-right-horizontal" class="input" value="0">
+        <label for="bottom-right-vertical">Bottom Right Vertical:</label>
+        <input type="number" id="bottom-right-vertical" class="input" value="0">
+        <label for="bottom-left-horizontal">Bottom Left Horizontal:</label>
+        <input type="number" id="bottom-left-horizontal" class="input" value="0">
+        <label for="bottom-left-vertical">Bottom Left Vertical:</label>
+        <input type="number" id="bottom-left-vertical" class="input" value="0">
+        <button id="apply" style="display: none;">Aplicar</button>
+        <textarea id="css-output" readonly></textarea>
+      </div>
+      
+    </main>
+    <script src="script.js"></script>
+  </body>
+</html>
