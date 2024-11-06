@@ -26,7 +26,7 @@ Este projeto é uma ferramenta interativa que permite aos usuários modificar os
 
 1. Clone o repositório para o seu ambiente local:
     ```bash
-    git clone https://github.com/joaogabriel43/BorderRadiusPreviewer
+    git clone https://github.com/joaogabriel43/border-radius-previewer.git
     ```
 
 2. Navegue até o diretório do projeto:
@@ -49,7 +49,7 @@ Ao desenvolver este projeto, aprendi:
 
 ## Capturas de Tela
 
-![captura de tela](https://raw.githubusercontent.com/joaogabriel43/BorderRadiusPreviewer/main/images/border-radius.png)
+![captura de tela](images/border-radius.png)
 
 ## Contribuição
 
@@ -57,4 +57,4 @@ Se você quiser contribuir para este projeto, sinta-se à vontade para abrir uma
 
 ---
 
-Feito com ❤️ por João Gabriel B N(https://github.com/joaogabriel43)
+Feito com ❤️ por [João Gabriel B N](https://github.com/joaogabriel43)
