@@ -49,7 +49,7 @@ Ao desenvolver este projeto, aprendi:
 
 ## Capturas de Tela
 
-![captura de tela](./images/border-radius.png)
+![captura de tela](https://raw.githubusercontent.com/joaogabriel43/BorderRadiusPreviewer/main/images/border-radius.png)
 
 ## Contribuição
 
