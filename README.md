@@ -58,3 +58,66 @@ Se você quiser contribuir para este projeto, sinta-se à vontade para abrir uma
 ---
 
 Feito com ❤️ por [João Gabriel B N](https://github.com/joaogabriel43)
+
+## English Below
+
+# Border Radius Previewer
+
+## Description
+
+This project is an interactive tool that allows users to modify the border radius values of a `div` element and see the changes in real-time or after clicking an "Apply" button. The tool is useful for web developers who want to experiment with different `border-radius` values to create complex shapes.
+
+## Features
+
+- Modify the border radius values (horizontal and vertical) for the four corners of a `div` element.
+- Toggle between real-time changes and applying changes after clicking a button.
+- Display the generated CSS code for the `border-radius` values.
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+
+## Project Structure
+
+- `index.html`: Contains the HTML structure of the project.
+- `style.css`: Contains the CSS styles for the layout and appearance of the project.
+- `script.js`: Contains the JavaScript code for the interactive functionality of the project.
+
+## How to Use
+
+1. Clone the repository to your local environment:
+    ```bash
+    git clone https://github.com/joaogabriel43/border-radius-previewer.git
+    ```
+
+2. Navigate to the project directory:
+    ```bash
+    cd border-radius-previewer
+    ```
+
+3. Open the `index.html` file in your preferred browser.
+
+## What I Learned
+
+By developing this project, I learned:
+
+- How to manipulate the DOM using JavaScript to create an interactive interface.
+- How to use input (`input`) and click (`click`) events to update page elements.
+- How to dynamically apply and adjust CSS styles using JavaScript.
+- The importance of good code structure and file organization in a web project.
+- How to use CSS variables (`:root`) to efficiently manage colors and other values.
+- The importance of a good user experience, allowing toggling between real-time and after-apply modes.
+
+## Screenshots
+
+![screenshot](images/border-radius.png)
+
+## Contribution
+
+If you want to contribute to this project, feel free to open an issue or submit a pull request.
+
+---
+
+Made with ❤️ by [João Gabriel B N](https://github.com/joaogabriel43)
