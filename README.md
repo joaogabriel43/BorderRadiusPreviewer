@@ -23,6 +23,7 @@ Este projeto é uma ferramenta interativa que permite aos usuários modificar os
 - `script.js`: Contém o código JavaScript para a funcionalidade interativa do projeto.
 
 ## Como Usar
+Link do site: https://joaogabriel43.github.io/BorderRadiusPreviewer/
 
 1. Clone o repositório para o seu ambiente local:
     ```bash
@@ -86,6 +87,8 @@ This project is an interactive tool that allows users to modify the border radiu
 - `script.js`: Contains the JavaScript code for the interactive functionality of the project.
 
 ## How to Use
+
+Site link: https://joaogabriel43.github.io/BorderRadiusPreviewer/
 
 1. Clone the repository to your local environment:
     ```bash
